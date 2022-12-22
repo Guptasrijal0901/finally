@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+nav {
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+ }
+ .sirmam{
+    background: url(backimg1.jpg);
+    padding: 40px;
+ }
+p {
+    text-transform: capitalize;
+    
+}
+.webies{
+    text-transform: capitalize;
+    background: url(backimg1.jpg);
+    padding: 40px;
+    font-weight: bold;
+}
+.main-heading {
+    background:url(backimg1.jpg) no-repeat;
+    background-size: cover;
+    padding: 40px;
+}
+.help{
+    font-size: 30px;
+}
+.contact{
+    font-size: 25px;
+    font-weight: bold;
+}
+.part{
+    font-size: 25px;
+    font-weight: bold;
+}
+/* @media only screen and (max-width: 700px){
+.nav{
+    text-align: center;
+}
+}
+img{
+    float: left;
+} 
+ p{
+    padding-left: 500px;
+    padding-right: 200px;
+    text-transform: capitalize;
+} 
+.about{
+    padding-left: 100px;
+}
+h5{
+    width: 800px;
+    height: 500px;
+    text-align: center;
+}  */
+/* X-Small devices (portrait phones, less than 576px) */
+/* // No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) { ... } */
